@@ -41,7 +41,7 @@ netstat -lx
 
 netstat -s
 
-Show statistics of following protocls:
+Shows statistics of following protocls:
 
 * TCP
 * UDP
